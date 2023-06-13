@@ -1,1 +1,8 @@
+<additional>
 
+    <vTypeDistribution id="typedist1" >
+        <vType id="bike" length="1.80" maxSpeed="7.50" speedFactor="normc(1.00,0.50,0.20,2.00)" vClass="bicycle" width="0.80" accel="0.8" decel="1.5" sigma="0.5" probability="0.05" carFollowModel="IDM"/>
+    <vType id="car" length="5.00" maxSpeed="70.00" speedFactor="normc(1.00,0.20,0.20,2.00)" vClass="passenger" accel="2.6" decel="4.5" sigma="0.2" probability="0.95" carFollowModel="IDM"/>
+      </vTypeDistribution>
+
+</additional>
